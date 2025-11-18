@@ -1,0 +1,12 @@
+# Chaves e certificados
+*.pem
+*.key
+*.crt
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.auto.tfvars
+crash.log
