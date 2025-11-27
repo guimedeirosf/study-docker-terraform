@@ -1,0 +1,1 @@
+aws s3 cp /iac/grmf_ml_app s3://grmf-1925942837-bucket/ --recursive

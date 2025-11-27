@@ -2,6 +2,8 @@
 *.pem
 *.key
 *.crt
+awsconfigure.txt
+rootkey.csv
 
 # Terraform
 .terraform/
